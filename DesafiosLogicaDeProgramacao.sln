@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaDoCirculo", "AreaDoCirc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaSimples", "SomaSimples\SomaSimples.csproj", "{1EE487EE-0089-4784-90B6-FC5276044FA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdutoSimples", "ProdutoSimples\ProdutoSimples.csproj", "{1B312FBF-E51A-4AA0-A260-67D76416C6BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{1EE487EE-0089-4784-90B6-FC5276044FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EE487EE-0089-4784-90B6-FC5276044FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EE487EE-0089-4784-90B6-FC5276044FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B312FBF-E51A-4AA0-A260-67D76416C6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B312FBF-E51A-4AA0-A260-67D76416C6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B312FBF-E51A-4AA0-A260-67D76416C6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B312FBF-E51A-4AA0-A260-67D76416C6BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

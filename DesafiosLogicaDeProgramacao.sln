@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaSimples", "SomaSimples\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdutoSimples", "ProdutoSimples\ProdutoSimples.csproj", "{1B312FBF-E51A-4AA0-A260-67D76416C6BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media1", "Media1\Media1.csproj", "{44B1A1D1-C035-42BF-A7F5-97A04584D576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{1B312FBF-E51A-4AA0-A260-67D76416C6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B312FBF-E51A-4AA0-A260-67D76416C6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B312FBF-E51A-4AA0-A260-67D76416C6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B1A1D1-C035-42BF-A7F5-97A04584D576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B1A1D1-C035-42BF-A7F5-97A04584D576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B1A1D1-C035-42BF-A7F5-97A04584D576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B1A1D1-C035-42BF-A7F5-97A04584D576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media2", "Media2\Media2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diferença", "Diferença\Diferença.csproj", "{2F2B769B-0AB7-4F76-AE5D-98366C94C331}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salário", "Salário\Salário.csproj", "{FB0B02A3-96D3-498F-950E-2183BF9E3445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{2F2B769B-0AB7-4F76-AE5D-98366C94C331}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F2B769B-0AB7-4F76-AE5D-98366C94C331}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F2B769B-0AB7-4F76-AE5D-98366C94C331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0B02A3-96D3-498F-950E-2183BF9E3445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0B02A3-96D3-498F-950E-2183BF9E3445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0B02A3-96D3-498F-950E-2183BF9E3445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0B02A3-96D3-498F-950E-2183BF9E3445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
